@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- ABOUT THE PROJECT -->
-## Dex-aggregator
+## Blockchain-Farmer
 
 With the ever growing DEFI world and the appearance of multiple decentralized exchanges on the different blockchains, the WEB3 ecosystem needs a way to compare the pros & cons of swapping on each DEX. 
 
@@ -53,8 +53,8 @@ Please install or have installed the following:
     ```
 2. Clone the repo:
    ```sh
-   git clone https://github.com/kaymen99/Dex-aggregator.git
-   cd Dex-aggregator
+   git clone https://github.com/kaymen99/Blockchain-Farmer.git
+   cd Blockchain-Farmer
    ```
    
 3. Set your environment variables
